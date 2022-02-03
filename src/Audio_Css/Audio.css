@@ -1,0 +1,14 @@
+
+.microphone{
+  font-size: 40px;
+}
+
+.microphone:hover{
+  cursor: pointer;
+  
+}
+
+.openMicrophone {
+  color:red;
+  font-size: 30px;
+}
