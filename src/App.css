@@ -4,3 +4,21 @@
   text-align: center;
 }
 
+.microphoneStart{
+  font-size: 40px;
+}
+.microphoneStart:hover{
+  font-size: 39px;
+  cursor: pointer;
+  
+}
+
+.microphoneEnd{
+  font-size: 40px;
+}
+
+.microphoneEnd:hover{
+  font-size: 39px;
+  cursor: pointer;
+  color: red;
+}
